@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Breakout",
+      "request": "launch",
+      "mainClass": "Breakout"
+    }
+  ]
+}
